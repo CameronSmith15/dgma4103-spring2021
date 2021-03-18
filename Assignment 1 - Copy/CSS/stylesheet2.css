@@ -1,0 +1,27 @@
+h1{
+  color: Maroon; border: 3px solid Maroon; width: 230px; font-family: Verdana; text-align: center;
+}
+
+img{
+  text-align: center; border: 15px solid Maroon
+}
+
+body{
+ font-family: Verdana; background-color: IndianRed; text-align: center;
+}
+
+h2{
+color: Maroon; font-size:30px; font-family: Verdana
+}
+
+p{
+  color: Maroon; font-size:25px; font-family: Verdana
+}
+
+a{
+  color: Maroon; font-size:25px; font-family: Verdana
+}
+
+ul{
+ font-family: Verdana
+}

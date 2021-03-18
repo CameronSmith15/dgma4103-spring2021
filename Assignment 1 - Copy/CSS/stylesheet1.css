@@ -1,0 +1,23 @@
+h1{
+  color: Indigo; border: 3px solid black; width: 230px; font-family: Georgia; text-align: center;
+}
+
+body{
+ font-family: Georgia; background-color: mediumorchid;
+}
+
+h2{
+color: Indigo; font-size:30px; font-family: Georgia
+}
+
+p{
+  color: Indigo; font-size:25px; font-family: Georgia
+}
+
+a{
+  color: Indigo; font-size:25px; font-family: Georgia
+}
+
+ul{
+ font-family: Georgia
+}

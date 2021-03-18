@@ -1,0 +1,27 @@
+h1{
+  color: Lightseagreen; border: 3px solid Lightseagreen; width: 230px; font-family: Garamond; text-align: right;
+}
+
+img{
+  text-align: right; border: 5px solid Lightseagreen
+}
+
+body{
+ font-family: Garamond; background-color: Darkslategray; text-align: right;
+}
+
+h2{
+color: Lightseagreen; font-size:30px; font-family: Garamond
+}
+
+p{
+  color: Lightseagreen; font-size:25px; font-family: Garamond
+}
+
+a{
+  color: Lightseagreen; font-size:25px; font-family: Garamond
+}
+
+ul{
+ font-family: Garamond; color: Lightseagreen; font-size:20px
+}
