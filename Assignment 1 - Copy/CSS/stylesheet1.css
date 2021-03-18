@@ -3,7 +3,11 @@ h1{
 }
 
 body{
- font-family: Georgia; background-color: mediumorchid;  border: 15px solid Indigo
+ font-family: Georgia; background-color: mediumorchid;
+}
+
+img{
+  border: 15px solid Indigo
 }
 
 h2{
